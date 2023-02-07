@@ -1,0 +1,11 @@
+name: wordcloud
+title:
+username:
+account: 28vdd5-arby-abood
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4709540
+bundleId: 5061306
+url: https://28vdd5-arby-abood.shinyapps.io/wordcloud/
+when: 1632335819.31909
+lastSyncTime: 1632335819.31911
